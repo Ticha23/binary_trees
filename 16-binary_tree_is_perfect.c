@@ -53,4 +53,3 @@ return (0);
 return (binary_tree_is_full(tree) &&
 binary_tree_height(tree->left) == binary_tree_height(tree->right));
 }
-
